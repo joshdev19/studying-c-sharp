@@ -1,0 +1,7 @@
+C:\Users\Jinshin\Desktop\projects\c#\break-statement\break-statement\bin\Debug\break-statement.exe.config
+C:\Users\Jinshin\Desktop\projects\c#\break-statement\break-statement\bin\Debug\break-statement.exe
+C:\Users\Jinshin\Desktop\projects\c#\break-statement\break-statement\bin\Debug\break-statement.pdb
+C:\Users\Jinshin\Desktop\projects\c#\break-statement\break-statement\obj\Debug\break-statement.csproj.AssemblyReference.cache
+C:\Users\Jinshin\Desktop\projects\c#\break-statement\break-statement\obj\Debug\break-statement.csproj.CoreCompileInputs.cache
+C:\Users\Jinshin\Desktop\projects\c#\break-statement\break-statement\obj\Debug\break-statement.exe
+C:\Users\Jinshin\Desktop\projects\c#\break-statement\break-statement\obj\Debug\break-statement.pdb

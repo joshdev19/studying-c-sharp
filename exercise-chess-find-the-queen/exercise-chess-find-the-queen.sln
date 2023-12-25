@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercise-chess-find-the-queen", "exercise-chess-find-the-queen\exercise-chess-find-the-queen.csproj", "{D0D04B33-C108-46EC-9FB9-7921CDD3AF67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D04B33-C108-46EC-9FB9-7921CDD3AF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D04B33-C108-46EC-9FB9-7921CDD3AF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D04B33-C108-46EC-9FB9-7921CDD3AF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D04B33-C108-46EC-9FB9-7921CDD3AF67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {130031F6-90E1-40B5-912C-9C4AF78BE1C6}
+	EndGlobalSection
+EndGlobal

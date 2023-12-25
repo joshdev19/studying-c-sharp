@@ -1,0 +1,7 @@
+C:\Users\Jinshin\Desktop\projects\c#\try-catch\try-catch\bin\Debug\try-catch.exe.config
+C:\Users\Jinshin\Desktop\projects\c#\try-catch\try-catch\bin\Debug\try-catch.exe
+C:\Users\Jinshin\Desktop\projects\c#\try-catch\try-catch\bin\Debug\try-catch.pdb
+C:\Users\Jinshin\Desktop\projects\c#\try-catch\try-catch\obj\Debug\try-catch.csproj.CoreCompileInputs.cache
+C:\Users\Jinshin\Desktop\projects\c#\try-catch\try-catch\obj\Debug\try-catch.exe
+C:\Users\Jinshin\Desktop\projects\c#\try-catch\try-catch\obj\Debug\try-catch.pdb
+C:\Users\Jinshin\Desktop\projects\c#\try-catch\try-catch\obj\Debug\try-catch.csproj.AssemblyReference.cache

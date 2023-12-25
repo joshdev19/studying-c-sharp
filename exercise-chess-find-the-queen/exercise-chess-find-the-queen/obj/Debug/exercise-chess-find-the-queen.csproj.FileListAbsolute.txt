@@ -1,0 +1,7 @@
+C:\Users\Jinshin\Desktop\projects\c#\exercise-chess-find-the-queen\exercise-chess-find-the-queen\bin\Debug\exercise-chess-find-the-queen.exe.config
+C:\Users\Jinshin\Desktop\projects\c#\exercise-chess-find-the-queen\exercise-chess-find-the-queen\bin\Debug\exercise-chess-find-the-queen.exe
+C:\Users\Jinshin\Desktop\projects\c#\exercise-chess-find-the-queen\exercise-chess-find-the-queen\bin\Debug\exercise-chess-find-the-queen.pdb
+C:\Users\Jinshin\Desktop\projects\c#\exercise-chess-find-the-queen\exercise-chess-find-the-queen\obj\Debug\exercise-chess-find-the-queen.csproj.AssemblyReference.cache
+C:\Users\Jinshin\Desktop\projects\c#\exercise-chess-find-the-queen\exercise-chess-find-the-queen\obj\Debug\exercise-chess-find-the-queen.csproj.CoreCompileInputs.cache
+C:\Users\Jinshin\Desktop\projects\c#\exercise-chess-find-the-queen\exercise-chess-find-the-queen\obj\Debug\exercise-chess-find-the-queen.exe
+C:\Users\Jinshin\Desktop\projects\c#\exercise-chess-find-the-queen\exercise-chess-find-the-queen\obj\Debug\exercise-chess-find-the-queen.pdb

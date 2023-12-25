@@ -1,0 +1,7 @@
+C:\Users\Jinshin\Desktop\projects\c#\multi-dimensional-array\multi-dimensional-array\bin\Debug\multi-dimensional-array.exe.config
+C:\Users\Jinshin\Desktop\projects\c#\multi-dimensional-array\multi-dimensional-array\bin\Debug\multi-dimensional-array.exe
+C:\Users\Jinshin\Desktop\projects\c#\multi-dimensional-array\multi-dimensional-array\bin\Debug\multi-dimensional-array.pdb
+C:\Users\Jinshin\Desktop\projects\c#\multi-dimensional-array\multi-dimensional-array\obj\Debug\multi-dimensional-array.csproj.AssemblyReference.cache
+C:\Users\Jinshin\Desktop\projects\c#\multi-dimensional-array\multi-dimensional-array\obj\Debug\multi-dimensional-array.csproj.CoreCompileInputs.cache
+C:\Users\Jinshin\Desktop\projects\c#\multi-dimensional-array\multi-dimensional-array\obj\Debug\multi-dimensional-array.exe
+C:\Users\Jinshin\Desktop\projects\c#\multi-dimensional-array\multi-dimensional-array\obj\Debug\multi-dimensional-array.pdb
