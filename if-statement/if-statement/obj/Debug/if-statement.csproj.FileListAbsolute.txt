@@ -1,0 +1,6 @@
+C:\Users\Jinshin\Desktop\projects\c#\if-statement\if-statement\bin\Debug\if-statement.exe.config
+C:\Users\Jinshin\Desktop\projects\c#\if-statement\if-statement\bin\Debug\if-statement.exe
+C:\Users\Jinshin\Desktop\projects\c#\if-statement\if-statement\bin\Debug\if-statement.pdb
+C:\Users\Jinshin\Desktop\projects\c#\if-statement\if-statement\obj\Debug\if-statement.csproj.CoreCompileInputs.cache
+C:\Users\Jinshin\Desktop\projects\c#\if-statement\if-statement\obj\Debug\if-statement.exe
+C:\Users\Jinshin\Desktop\projects\c#\if-statement\if-statement\obj\Debug\if-statement.pdb

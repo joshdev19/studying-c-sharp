@@ -1,0 +1,6 @@
+C:\Users\Jinshin\Desktop\projects\c#\console-read-line-capture\console-read-line-capture\bin\Debug\console-read-line-capture.exe.config
+C:\Users\Jinshin\Desktop\projects\c#\console-read-line-capture\console-read-line-capture\bin\Debug\console-read-line-capture.exe
+C:\Users\Jinshin\Desktop\projects\c#\console-read-line-capture\console-read-line-capture\bin\Debug\console-read-line-capture.pdb
+C:\Users\Jinshin\Desktop\projects\c#\console-read-line-capture\console-read-line-capture\obj\Debug\console-read-line-capture.csproj.CoreCompileInputs.cache
+C:\Users\Jinshin\Desktop\projects\c#\console-read-line-capture\console-read-line-capture\obj\Debug\console-read-line-capture.exe
+C:\Users\Jinshin\Desktop\projects\c#\console-read-line-capture\console-read-line-capture\obj\Debug\console-read-line-capture.pdb

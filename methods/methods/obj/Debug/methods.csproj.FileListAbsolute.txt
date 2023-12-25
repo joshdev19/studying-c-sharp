@@ -1,0 +1,6 @@
+C:\Users\Jinshin\Desktop\projects\c#\methods\methods\bin\Debug\methods.exe.config
+C:\Users\Jinshin\Desktop\projects\c#\methods\methods\bin\Debug\methods.exe
+C:\Users\Jinshin\Desktop\projects\c#\methods\methods\bin\Debug\methods.pdb
+C:\Users\Jinshin\Desktop\projects\c#\methods\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+C:\Users\Jinshin\Desktop\projects\c#\methods\methods\obj\Debug\methods.exe
+C:\Users\Jinshin\Desktop\projects\c#\methods\methods\obj\Debug\methods.pdb

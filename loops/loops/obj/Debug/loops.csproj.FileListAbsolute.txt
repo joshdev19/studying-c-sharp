@@ -1,0 +1,7 @@
+C:\Users\Jinshin\Desktop\projects\c#\loops\loops\bin\Debug\loops.exe.config
+C:\Users\Jinshin\Desktop\projects\c#\loops\loops\bin\Debug\loops.exe
+C:\Users\Jinshin\Desktop\projects\c#\loops\loops\bin\Debug\loops.pdb
+C:\Users\Jinshin\Desktop\projects\c#\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\Jinshin\Desktop\projects\c#\loops\loops\obj\Debug\loops.exe
+C:\Users\Jinshin\Desktop\projects\c#\loops\loops\obj\Debug\loops.pdb
+C:\Users\Jinshin\Desktop\projects\c#\loops\loops\obj\Debug\loops.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Jinshin\Desktop\projects\c#\console-write-line\console-write-line\bin\Debug\console-write-line.exe.config
+C:\Users\Jinshin\Desktop\projects\c#\console-write-line\console-write-line\bin\Debug\console-write-line.exe
+C:\Users\Jinshin\Desktop\projects\c#\console-write-line\console-write-line\bin\Debug\console-write-line.pdb
+C:\Users\Jinshin\Desktop\projects\c#\console-write-line\console-write-line\obj\Debug\console-write-line.csproj.AssemblyReference.cache
+C:\Users\Jinshin\Desktop\projects\c#\console-write-line\console-write-line\obj\Debug\console-write-line.csproj.CoreCompileInputs.cache
+C:\Users\Jinshin\Desktop\projects\c#\console-write-line\console-write-line\obj\Debug\console-write-line.exe
+C:\Users\Jinshin\Desktop\projects\c#\console-write-line\console-write-line\obj\Debug\console-write-line.pdb
